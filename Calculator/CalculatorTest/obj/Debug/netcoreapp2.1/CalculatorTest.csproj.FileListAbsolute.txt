@@ -1,0 +1,17 @@
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.deps.json
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.runtimeconfig.json
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.runtimeconfig.dev.json
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.dll
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.pdb
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csprojAssemblyReference.cache
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.AssemblyInfoInputs.cache
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.AssemblyInfo.cs
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csproj.CopyComplete
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.dll
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.pdb

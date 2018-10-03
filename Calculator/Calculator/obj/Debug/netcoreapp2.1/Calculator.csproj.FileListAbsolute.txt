@@ -1,0 +1,9 @@
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\Sergio\Documents\GitHub\CICDTest\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
